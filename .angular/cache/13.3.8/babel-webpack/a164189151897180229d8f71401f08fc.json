@@ -1,0 +1,1 @@
+{"ast":null,"code":"export const routes = [{\n  path: '',\n  redirectTo: 'pages',\n  pathMatch: 'full'\n}, {\n  path: '**',\n  redirectTo: ''\n}];","map":null,"metadata":{},"sourceType":"module"}
